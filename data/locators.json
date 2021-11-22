@@ -1,0 +1,10 @@
+{
+  "title": {
+    "css": ".CDt4Ke .Rn3Z1b",
+    "xpath": ".//h1[@id='h.p_ID_13']/span"
+  },
+  "buttonExtensions": {
+    "css": ".K1Ci7d>li>div>div a[data-url='/extensions']",
+    "xpath": ".//nav[@id='WDxLfe']//a[@href='/extensions'][ @data-level='1']"
+  }
+}

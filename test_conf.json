@@ -1,0 +1,5 @@
+{
+  "timeOut": 10000,
+  "windowSize":  { "width": 1920, "height": 1080 },
+  "screenPath" : "screen"
+}
